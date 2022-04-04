@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Puppycat's Python Journey
+name: Abhi's PIC 16B Blog
 
 # Short bio or description (displayed in the header)
-description: I love spinach meow meow meow
+description: Learning Python!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/PIC16B/PIC16B.github.io/master/images/ucla-math.png
+avatar: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10e47c32-6be2-4ef8-a082-a53cd9e93baa/d1m5jrm-6ae79b36-f585-492d-91a1-3a4e13c41f89.png/v1/fill/w_892,h_603,q_80,strp/akatsuki_cloud_vector_by_gustavoduqueestrada_d1m5jrm-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAzIiwicGF0aCI6IlwvZlwvMTBlNDdjMzItNmJlMi00ZWY4LWEwODItYTUzY2Q5ZTkzYmFhXC9kMW01anJtLTZhZTc5YjM2LWY1ODUtNDkyZC05MWExLTNhNGUxM2M0MWY4OS5wbmciLCJ3aWR0aCI6Ijw9ODkyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.w4UMw2NrRxhrylXvym3RHBt6q0Mtf1LN6HWBS2OjU0E
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: HarlinLee/HarlinLee.github.io # replace with your repo
+  github: avvemul/avvemul.github.io # replace with your repo
   instagram:
   linkedin:
   pinterest:
